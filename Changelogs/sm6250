@@ -1,0 +1,14 @@
+### sm6250 ###
+Upstream v4.14.250
+Improve idle drain
+Some Ktweaks for better performance
+Fsync improvement better performance
+enable GENERIC_FIND_FIRST_BIT
+Improve Network by Force applications to use TCP_NODELAY
+Tuning tcp for better response
+CPU tasks improvement
+Add QBG UAPI headers
+Play with throttling a bit gpu one
+Silent some debugs
+fork highpri workqueue
+Some other Fixes & Improvements
